@@ -11,6 +11,7 @@ What did I learn?
 -Background fullscreen image
 -Practice more and more position div's
 -Opacity is a problem because this effect affects all components inside the aplicated div. But this "background-color: rgba(255, 255, 255, 0.3);" Can solve our lives.
+-Bootstrap makes things easier in responsive topic.
 
 that's all for now.
 
